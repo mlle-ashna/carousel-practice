@@ -1,4 +1,11 @@
-img {
+#carouselExample {
     width: 40vw;
 }
 
+.container {
+    justify-self: center;
+}
+
+img {
+    width: 40vh;
+}
